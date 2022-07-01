@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "ID": "1",
+            "login": "Hello123",
+            "password": "123456q",
+            "rights": "read"
+        },
+        {
+            "ID": "2",
+            "login": "Andrew35",
+            "password": "gtrhf345",
+            "rights": "read"
+        },
+        {
+            "ID": "3",
+            "login": "Horse423",
+            "password": "3kg05nf67",
+            "rights": "read/write"
+        },
+        {
+            "ID": "4",
+            "login": "Jack432",
+            "password": "159ns642f",
+            "rights": "read"
+        },
+        {
+            "ID": "5",
+            "login": "Johny9",
+            "password": "AHfgiYU65",
+            "rights": "read/write"
+        }
+    ]
+}
